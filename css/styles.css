@@ -1,0 +1,16 @@
+.nav-space {
+    background-color: #eb4d4b;
+    justify-content: space-between;
+    padding: 30px;
+    
+}
+
+.options-bar {
+    margin-left: 50px;
+}
+
+.text-decoration {
+    text-decoration: none;
+    font-size: 2rem;
+    color: white;
+}
