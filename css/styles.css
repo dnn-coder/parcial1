@@ -14,3 +14,35 @@
     font-size: 2rem;
     color: white;
 }
+
+.principal {
+    width: 80%;
+    margin: auto;
+}
+
+.img-principal {
+    background-image: url("../img/SUROCCIDENTE.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 500px;
+    margin-top: 20px;
+
+}
+
+.text-principal {
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+    width: 60%;
+    font-size: 20px;
+}
+
+.footer-space {
+    justify-content: center;
+    text-align: center;
+}
+
+.footer-space p {
+    font-size: 15px;
+}
