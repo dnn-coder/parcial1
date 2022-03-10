@@ -49,6 +49,16 @@
 
 }
 
+.img-nariño {
+    background-image: url("../nariño/NARIÑO.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 500px;
+    margin-top: 20px;
+
+}
+
 .text-principal {
     margin-top: 50px;
     justify-content: center;
@@ -60,8 +70,10 @@
 .footer-space {
     justify-content: center;
     text-align: center;
+    margin-top: 20px;
 }
 
 .footer-space p {
     font-size: 15px;
+
 }
